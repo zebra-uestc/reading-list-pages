@@ -1,5 +1,3 @@
-# reading-list
-
 ## Paper
 
 - **RainBlock: Faster Transaction Processing in Public Blockchains** [[pdf]](./assets/Ponnapalli%20et%20al.%20-%20RainBlock%20Faster%20Transaction%20Processing%20in%20Public.pdf) [[slide]](./assets/slides/atc21_slides_ponnapalli.pdf) #BlockChain #Stateless #Sharded #ATC21 #Conference-2022-09-20 #Conference-2022-09-22
@@ -17,12 +15,12 @@
 - **VQL: Efficient and Verifiable Cloud Query Services for Blockchain Systems** [[pdf]](./assets/Wu%20et%20al.%20-%202022%20-%20VQL%20Efficient%20and%20Verifiable%20Cloud%20Query%20Services.pdf) #BlockChain #Query
 - **BlockSci: Design and applications of a blockchain analysis platform** [[pdf]](./assets/Kalodner%20et%20al.%20-%20BlockSci%20Design%20and%20applications%20of%20a%20blockchain%20.pdf) [[slide]](./assets/slides/sec20_slides_kalodner.pdf) [[code]](https://github.com/citp/BlockSci) #BlockChain #Query #BTC #InMemory #Graph #MapReduce #SEC20 #Conference-2022-10-18
 - **SEBDB: Semantics Empowered BlockChain DataBase** [[pdf]](./assets/Zhu%20et%20al.%20-%202019%20-%20SEBDB%20Semantics%20Empowered%20BlockChain%20DataBase.pdf) #BlockChain #Query #SQL #HyperledgerFabric #Conference-2022-10-18
-    - **Towards Rich Qery Blockchain Database** [[pdf]](./assets/Zhu%20et%20al.%20-%202020%20-%20Towards%20Rich%20Qery%20Blockchain%20Database.pdf)
+- **Towards Rich Qery Blockchain Database** [[pdf]](./assets/Zhu%20et%20al.%20-%202020%20-%20Towards%20Rich%20Qery%20Blockchain%20Database.pdf)
 - **Ethereum Query Language** [[pdf]](./assets/Bragagnolo%20-%202018%20-%20Ethereum%20Query%20Language.pdf) [[code]](https://github.com/smartanvil/UQLL) #BlockChain #Query #Smalltalk #Conference-2022-10-18
 - **A Unified Data Model for Blockchains** [[pdf]](./assets/Meyer%20-%202022%20-%20A%20Unified%20Data%20Model%20for%20Blockchains.pdf) #BlockChain #DataModel #Conference-2022-10-18
 - **BlockchainDB: a shared database on blockchains** [[pdf]](./assets/El-Hindi%20et%20al.%20-%202019%20-%20BlockchainDB%20a%20shared%20database%20on%20blockchains.pdf) #BlockChain #Query #YCSB #Conference-2022-10-25
 - **Forkbase an efficient storage engine for blockcha** [[pdf]](./assets/Wang%20et%20al.%20-%202018%20-%20Forkbase%20an%20efficient%20storage%20engine%20for%20blockcha.pdf) #BlockChain #StorageEngine #Conference-2022-10-25
-    - **Analysis of Indexing Structures for Immutable Data** [[pdf]](./assets/Yue%20et%20al.%20-%202020%20-%20Analysis%20of%20Indexing%20Structures%20for%20Immutable%20Data.pdf)
+- **Analysis of Indexing Structures for Immutable Data** [[pdf]](./assets/Yue%20et%20al.%20-%202020%20-%20Analysis%20of%20Indexing%20Structures%20for%20Immutable%20Data.pdf)
 - **FAST: A MapReduce Consensus for High Performance Blockchains** [[pdf]](./assets/Khan%20-%202018%20-%20FAST%20A%20MapReduce%20Consensus%20for%20High%20Performance%20B.pdf) #BlockChain #Conference-2022-10-25 #Worthless
 - **Fine-Grained, Secure and Efﬁcient Data Provenance on Blockchain Systems** [[pdf]](./assets/Ruan%20et%20al.%20-%20Fine-Grained%2C%20Secure%20and%20Ef%EF%AC%81cient%20Data%20Provenance%20.pdf) [[code]](https://github.com/fhaer/CCQL) #BlockChain
 - **Using a Hybrid Approach to Data Management in Relational Database and Blockchain: a Case Study on The E-health Domain** [[pdf]](./assets/Marinho%20et%20al.%20-%20Using%20a%20Hybrid%20Approach%20to%20Data%20Management%20in%20Rela.pdf) #BlockChain
@@ -52,6 +50,8 @@
 - **Optimal heap limits for reducing browser memory use** [[pdf]](./assets/Kirisame%20et%20al.%20-%202022%20-%20Optimal%20heap%20limits%20for%20reducing%20browser%20memory%20us.pdf) #GC #V8 #OOPSLA22
 - **Survey of Distributed File System Design Choices** [[pdf]](./assets/Macko%20and%20Hennessey%20-%202022%20-%20Survey%20of%20Distributed%20File%20System%20Design%20Choices.pdf) #DistributedFileSystem #Survey
 - **Understanding ethereum via graph analysis** [[pdf]](./assets/CHEN%20et%20al.%20-2020-%20Understanding%20ethereum%20via%20graph%20analysis.pdf) #BlockChain #Ethereum #Data Analysis
+  
+    
 ## Guide
 
 - **“区块链”重点专项2022年度项目申报指南** [[pdf]](./assets/%E2%80%9C%E5%8C%BA%E5%9D%97%E9%93%BE%E2%80%9D%E9%87%8D%E7%82%B9%E4%B8%93%E9%A1%B92022%E5%B9%B4%E5%BA%A6%E9%A1%B9%E7%9B%AE%E7%94%B3%E6%8A%A5%E6%8C%87%E5%8D%97.pdf) #BlockChain
